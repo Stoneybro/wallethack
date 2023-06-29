@@ -7,7 +7,7 @@ import Hero from '@/components/Hero'
 import Orderdemo from '@/components/Orderdemo'
 import Features from '@/components/Features'
 import Hacktoken from '@/components/Hacktoken'
-import Trade from '@/components/trade'
+
 import Footer from '@/components/Footer'
 import Faq from '@/components/Faq'
 import Subscribe from '@/components/Subscribe'
@@ -35,7 +35,7 @@ export default function Home() {
     <Orderdemo />
     <Features />
     <Hacktoken />
-    <Trade />
+
     <Faq />
     <Subscribe />
     <Footer />
